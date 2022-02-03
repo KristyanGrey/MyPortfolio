@@ -3,7 +3,7 @@ html {
   height: 100%;
 }
 
-.backgroundimage {
+/* .backgroundimage {
   background-image: url("../Portfolio/Image/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -59,4 +59,14 @@ a {
 
 li a:hover {
   background-color: #111;
+} */
+
+.profile{
+  margin-top: 10%;
+}
+.information{
+  margin-top: 10%;
+}
+.BgColor{
+  background-color: 	#fff6f6;
 }
