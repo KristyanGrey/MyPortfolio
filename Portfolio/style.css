@@ -1,65 +1,7 @@
 body,
 html {
   height: 100%;
-}
-
-/* .backgroundimage {
-  background-image: url("../Portfolio/Image/bg.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 100%;
-  opacity: 90%;
-}
-
-.myPic {
-  background-image: url("../Portfolio/Image/1.png");
-  background-position: bottom;
-  background-repeat: no-repeat;
-  height: 100%;
-}
-
-.myName {
-  background-image: url("../Portfolio/Image/name/4.png");
-  background-position: center top;
-  background-repeat: no-repeat;
-  height: 100%;
-  margin-bottom: 80%px;
-}
-
-.blackImage {
-  background-color: black;
-  background-size: cover;
-  height: 100%;
-  opacity: 90%;
-}
-
-.myNav {
-  position: center;
-}
-
-.navBar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: block;
-}
-
-li {
-  float: left;
-}
-
-a {
-  display: block;
-  padding: 8px;
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
-}
-
-li a:hover {
-  background-color: #111;
-} */
+} 
 
 .profile{
   margin-top: 10%;
