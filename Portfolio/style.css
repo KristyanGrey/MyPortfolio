@@ -79,6 +79,12 @@ li a:hover {
   user-select: none;
 }
 
+.language{
+  margin-left: 5%;
+  margin-top: 5%;
+
+}
+
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
